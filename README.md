@@ -50,3 +50,18 @@ UDON V2 is based off the moteus control system (https://mjbots.com/) which is a 
 - mjpower-ss
 
 ## Bill of Materials List:
+
+You can download the full CSV here: [UDON BOM - TEST Purchase.csv](UDON%20BOM%20-%20TEST%20Purchase.csv)
+
+| Vendor | Item | SKU | Cost | Amount | Total |
+|---|---|---:|---:|---:|---:|
+| WCP | 1.625"" OD x 1/2"" Wide Straight Flex Wheel (1/2"" Hex Stretch, 30A) | WCP-1281 | $2.99 | 4 | $11.96 |
+| WCP | 1.625"" OD x 1/2"" Wide Straight Flex Wheel (1/2"" Hex Stretch, 45A) | WCP-1282 | $2.99 | 10 | $29.90 |
+| WCP | .375"" OD x .159"" ID Rounded Hex Stock (36"") | WCP-0911 | $19.99 | 1 | $19.99 |
+| Fabworks | Mecanum Frame Plates | 25-10-5300 | $142.10 | 1 | $142.10 |
+| Amazon | 4010 Fans 12V - 8500RPM |  | $8.99 | 2 | $17.98 |
+| Amazon | CNHL 2200mAh 4S Lipo Battery 40C |  | $44.99 | 1 | $44.99 |
+| Amazon | EDF 70mm 11 Blades Ducted Fan |  | $76.99 | 1 | $76.99 |
+|  |  |  |  | 20 | $343.91 |
+BOM Google Sheet: https://docs.google.com/spreadsheets/d/1sjlqb2LRXWe4DsiQw7wpXGaVzfJAuZjR17yt-ZodIWk/edit?usp=sharing
+
