@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/27/2025 - Restarting an Old project  
+## 10/27/2025 7:42 PM - Restarting an Old project  
 
 I've had multiple attempts at building a rival robot, many of which came into fruition but never had enough time to be tuned and refined. This includes Tonkotsu V1 and Tonkotsu V2 which had all the CAD and actual physical build but the swerve drive made it difficult to run well. With UDON, I plan to take a step back and build an easier mecanum drive. Here's what I'm thinking: 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjExNywicHVyIjoiYmxvYl9pZCJ9fQ==--07179d9b631ece5006780b0e4b62614333e63caf/image.png)
@@ -16,4 +16,14 @@ Not great, I know but the mechanism can be changed. I want to base this off NCR 
 
 
 I think this is a great start, I'm banking on the fact that I can also borrow the GoBilda mecanum wheels from my local FTC team :D  
+
+## 10/27/2025 7:43 PM - CAD Intake  
+
+I've thought about many ways to do the intake, with a shuttlecock being such an oriented-based game piece, the head has to go forward at all times for this to work. I tried to figure out a passive way of intaking but none seems as reliable as having 2 centering wheels.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjExOSwicHVyIjoiYmxvYl9pZCJ9fQ==--cf87c79ef50e3c8775c28dd6b963cf075543bc94/image.png)
+
+I'm quite proud of the centering wheels using bevel gear tech, it just looks so good.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--079cccaad19f9882b12bb02f4c56cf6973c5ac2e/image.png)
+
+  
 
