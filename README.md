@@ -10,6 +10,13 @@ Feel free to make a copy and use it as a base for your robot!
 ## Rival Robotics
 RIVAL Robotics Competition is a robotics competition for all ages targeted at advanced builders. There are multiple events with a different challange each year. For more information, visit https://www.rivalrobotics.co/
 
+## Highlights
+- 12x12 Mecanum Drive Base
+- Compliant Shuttlecock Intake
+- L1, L2 Shooter
+- EDF Blower
+- Silo Dumper
+
 ## Overview
 UDON V2 is a shooter robot meant to compete in the Rival Robotics Competition. Its main goal is to shoot missiles (badminton shuttlecock) onto platforms on the goal post.
 
