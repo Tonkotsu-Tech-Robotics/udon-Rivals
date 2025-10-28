@@ -1,0 +1,7 @@
+asyncio
+moteus
+moteus-pi3hat
+wpilib
+robotpy-wpimath
+pygame
+numpy

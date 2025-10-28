@@ -1,0 +1,22 @@
+import math
+from wpimath.geometry import Translation2d
+import wpimath.kinematics
+
+# === Drivetrain / Module Constants ===
+
+DRIVE_MOTOR_GEAR_RATIO = 0
+STEER_MOTOR_GEAR_RATIO = 0
+WHEEL_DIAMETER = 0
+
+ROBOT_WIDTH = 0.0
+SWERVE_MODULE_OFFSET = ROBOT_WIDTH / 2.0
+
+MAX_SPEED = 0.0
+
+FRONT_LEFT = Translation2d(SWERVE_MODULE_OFFSET, SWERVE_MODULE_OFFSET)
+FRONT_RIGHT = Translation2d(SWERVE_MODULE_OFFSET, -SWERVE_MODULE_OFFSET)
+BACK_LEFT = Translation2d(-SWERVE_MODULE_OFFSET, SWERVE_MODULE_OFFSET)
+BACK_RIGHT = Translation2d(-SWERVE_MODULE_OFFSET, -SWERVE_MODULE_OFFSET)
+
+kinematics = wpimath.kinematics.SwerveDrive4Kinematics(FRONT_LEFT, FRONT_RIGHT, BACK_LEFT, BACK_RIGHT)
+
