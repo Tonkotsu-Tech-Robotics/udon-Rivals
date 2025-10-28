@@ -26,9 +26,6 @@ UDON V2 is a shooter robot meant to compete in the Rival Robotics Competition. I
 
 This robot intakes the missiles off the ground to shoot it up into the L2 platforms. It also has the ability to "silo dump" or drop all the missiles out of the tube. The EDF on the back of the robot allows for large area "acquisition" of the missiles and blow it to the other side.
 
-Intake/Shooter Mechanism:
-![Intake Shooter Image](Pictures/IntakeISOImage.png)
-
 ### Why?
 UDON V2 was created in order to explore further levels of advanced robotics. Coming from an FRC and Robotics background, UDON acts as a way to build and learn skills as well as grow the RIVAL community. Tonkotsu Tech, the overarching group overseeing UDON, has made contributions to RIVALS and wishes to continue that through UDON.
 
