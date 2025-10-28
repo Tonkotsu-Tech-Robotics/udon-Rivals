@@ -16,10 +16,15 @@ UDON V2 is a shooter robot meant to compete in the Rival Robotics Competition. I
       <img src="Pictures/RivalFieldImage.png" width="100%" alt="Field ISO Render">
     </td>
     <td valign="top">
-      This robot intakes the missiles off the ground to shoot it up into the L2 platforms. It also has the ability to "silo dump" or drop all the missiles out of the tube. The EDF on the back of the robot allows for large area "acquisition" of the missiles and blow it to the other side.
+        Image of the Rival Robotics "DOOMSDAY" Field
     </td>
   </tr>
 </table>
+
+This robot intakes the missiles off the ground to shoot it up into the L2 platforms. It also has the ability to "silo dump" or drop all the missiles out of the tube. The EDF on the back of the robot allows for large area "acquisition" of the missiles and blow it to the other side.
+
+Intake/Shooter Mechanism:
+![Intake Shooter Image](Pictures/IntakeISOImage.png)
 
 ## Why are we making this project?
 
