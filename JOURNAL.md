@@ -36,3 +36,11 @@ Finally, I found a way to fit in this shooter. The packaging is quite tough and 
 
   
 
+## 10/27/2025 7:45 PM - EDF Blower Add-on  
+
+Watching back some of the old games from Orange County Maker Fair and Tidal Tumble, EDF seems like the way to go. The EDF blows the shuttlecocks to the other side and since the floor is a point, that is a LOT of points that can be gained that way. I added one to the robot too but I think it needs a cover because in one of the matches, I saw a shuttlecock go into it and it just exploded.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEyMywicHVyIjoiYmxvYl9pZCJ9fQ==--1bda45e980a381660a8168d645acd25d753d36d1/image.png)
+
+It looks really good but now I have to go back and redesign where I am going to put my electronics. I planned to put it where the EDF is (in the back of the robot) but with that space gone, I might have to add a plate so that I can just put the electronics on the top of the bot. This isn't really ideal because I liked the idea of a flat tanky robot but oh wells.  
+
