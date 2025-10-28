@@ -51,12 +51,12 @@ UDON V2 is based off the moteus control system (https://mjbots.com/) which is a 
 
 ## Bill of Materials List:
 
-You can download the full CSV here: [UDON BOM - TEST Purchase.csv](UDON%20BOM%20-%20TEST%20Purchase.csv)
+You can download the full CSV here: [bom.csv](bom.csv)
 <table>
   <colgroup>
     <col width="8%" />
-    <col width="60%" />
-    <col width="12%" />
+    <col width="62%" />
+    <col width="10%" />
     <col width="8%" />
     <col width="6%" />
     <col width="6%" />
@@ -97,6 +97,54 @@ You can download the full CSV here: [UDON BOM - TEST Purchase.csv](UDON%20BOM%20
       <td align="right">$19.99</td>
     </tr>
     <tr>
+      <td>WCP</td>
+      <td>43t x 9mm Wide Timing Belt (HTD 5mm)</td>
+      <td align="right">WCP-0511</td>
+      <td align="right">$3.99</td>
+      <td align="right">2</td>
+      <td align="right">$7.98</td>
+    </tr>
+    <tr>
+      <td>WCP</td>
+      <td>Shipping Costs</td>
+      <td align="right"></td>
+      <td align="right">$20.00</td>
+      <td align="right">1</td>
+      <td align="right">$20.00</td>
+    </tr>
+    <tr>
+      <td>SWYFT</td>
+      <td>HTD 5mm Pitch Timing Belts 75T 9mm</td>
+      <td align="right"></td>
+      <td align="right">$2.74</td>
+      <td align="right">4</td>
+      <td align="right">$10.96</td>
+    </tr>
+    <tr>
+      <td>SWYFT</td>
+      <td>HTD 5mm Pitch Timing Belts 50T 9mm</td>
+      <td align="right"></td>
+      <td align="right">$2.49</td>
+      <td align="right">1</td>
+      <td align="right">$2.49</td>
+    </tr>
+    <tr>
+      <td>SWYFT</td>
+      <td>HTD 5mm Pitch Timing Belts 45T 9mm</td>
+      <td align="right"></td>
+      <td align="right">$2.49</td>
+      <td align="right">1</td>
+      <td align="right">$2.49</td>
+    </tr>
+    <tr>
+      <td>SWYFT</td>
+      <td>Shipping Costs</td>
+      <td align="right"></td>
+      <td align="right">$10.55</td>
+      <td align="right">1</td>
+      <td align="right">$10.55</td>
+    </tr>
+    <tr>
       <td>Fabworks</td>
       <td>Mecanum Frame Plates</td>
       <td align="right">25-10-5300</td>
@@ -133,11 +181,10 @@ You can download the full CSV here: [UDON BOM - TEST Purchase.csv](UDON%20BOM%20
       <td></td>
       <td></td>
       <td></td>
-      <td align="right">20</td>
-      <td align="right">$343.91</td>
+      <td align="right">30</td>
+      <td align="right">$398.38</td>
     </tr>
   </tbody>
 </table>
-*BOM is missing hardware, need to CAD and add hardware
 BOM Google Sheet: https://docs.google.com/spreadsheets/d/1sjlqb2LRXWe4DsiQw7wpXGaVzfJAuZjR17yt-ZodIWk/edit?usp=sharing
 
