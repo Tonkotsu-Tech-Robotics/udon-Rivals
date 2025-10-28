@@ -1,15 +1,16 @@
 Vendor,Item,SKU,Cost,Amount,Total
 WCP,"1.625"" OD x 1/2"" Wide Straight Flex Wheel (1/2"" Hex Stretch, 30A)",WCP-1281,$2.99,4,$11.96
-WCP,"1.625"" OD x 1/2"" Wide Straight Flex Wheel (1/2"" Hex Stretch, 45A)",WCP-1282,$2.99,10,$29.90
+WCP,"1.625"" OD x 1/2"" Wide Straight Flex Wheel (1/2"" Hex Stretch, 45A)",WCP-1282,$2.99,9,$26.91
 WCP,".375"" OD x .159"" ID Rounded Hex Stock (36"")",WCP-0911,$19.99,1,$19.99
 WCP,43t x 9mm Wide Timing Belt (HTD 5mm),WCP-0511,$3.99,2,$7.98
-WCP,Shipping Costs,,$20.00,1,$20.00
+WCP,Shipping + Tax,,$25.41,1,$25.41
 SWYFT,HTD 5mm Pitch Timing Belts 75T 9mm,,$2.74,4,$10.96
 SWYFT,HTD 5mm Pitch Timing Belts 50T 9mm,,$2.49,1,$2.49
 SWYFT,HTD 5mm Pitch Timing Belts 45T 9mm,,$2.49,1,$2.49
 SWYFT,Shipping Costs,,$10.55,1,$10.55
 Fabworks,Mecanum Frame Plates,25-10-5300,$142.10,1,$142.10
-Amazon,4010 Fans 12V - 8500RPM,,$8.99,2,$17.98
+Amazon,4010 Fans 12V - 8500RPM,,$8.99,1,$8.99
 Amazon,CNHL 2200mAh 4S Lipo Battery 40C,,$44.99,1,$44.99
 Amazon,EDF 70mm 11 Blades Ducted Fan,,$76.99,1,$76.99
-,,,,30,$398.38
+Amazon,Tax,,$5.31,1,$5.31
+,,,,29,$397.12
