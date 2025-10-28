@@ -1,3 +1,5 @@
+# Journal 
+
 ## 10/22/2025 - Restarting an Old project
 I've had multiple attempts at building a rival robot, many of which came into fruition but never had enough time to be tuned and refined. This includes Tonkotsu V1 and Tonkotsu V2 which had all the CAD and actual physical build but the swerve drive made it difficult to run well. With UDON, I plan to take a step back and build an easier mecanum drive. Here's what I'm thinking:
 ![UDON Front View](Pictures/UDONSketch.png) 
