@@ -1,1 +1,0 @@
-placeholder file, put CAD and step files into this folder
