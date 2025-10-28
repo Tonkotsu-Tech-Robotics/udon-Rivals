@@ -138,5 +138,6 @@ You can download the full CSV here: [UDON BOM - TEST Purchase.csv](UDON%20BOM%20
     </tr>
   </tbody>
 </table>
+*BOM is missing hardware, need to CAD and add hardware
 BOM Google Sheet: https://docs.google.com/spreadsheets/d/1sjlqb2LRXWe4DsiQw7wpXGaVzfJAuZjR17yt-ZodIWk/edit?usp=sharing
 
