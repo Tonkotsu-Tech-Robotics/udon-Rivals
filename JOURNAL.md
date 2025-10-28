@@ -27,3 +27,12 @@ I'm quite proud of the centering wheels using bevel gear tech, it just looks so 
 
   
 
+## 10/27/2025 7:44 PM - Finished Shooter CAD  
+
+Finally, I found a way to fit in this shooter. The packaging is quite tough and I am slightly worried over the flywheels expanding when it is shooting. I think this is good enough. One other thing is that the green wheel is used for silo dumping but it might get in the way of the shuttlecock, I have to prototype to find out.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--abf02d6e43da56aef3693dbd22c24e4a3c27ea6e/image.png)
+
+
+  
+
