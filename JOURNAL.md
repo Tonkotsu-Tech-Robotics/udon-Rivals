@@ -68,3 +68,18 @@ Thanks so much for the follows and the views, I hope to be able to show you my p
 
   
 
+## 10/30/2025 - Fixed My Journals  
+
+Hey everyone!
+
+Update: After shipping the project, I got feedback that I need to fix my journals and make them more in depth with my struggles and my successes. I went back and added a lot of the key parts that I remember. Sorry if I couldn't have much images of all the troubles I had (so many interferences in Onshape because packaging was really tight) but I hope my words are good enough for now. 100% for the future, I will document more and not just take pictures when the final product is done. 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--dd06bf51a1bed6853970b3b4d2a2cae5934919bf/image.png)
+I went ahead and printed some of parts in the intake and shooter. I know it says in the github to cut this out of 6061 aluminum but actually, I found that 3D printing should be strong enough for prototyping. There is some bends so I will go back and print this with no pocketing. Right now, its at an absurd 8 walls and 35% infill and seems to be holding up good!
+
+
+I hope you all enjoy! See you in the next journal :D
+
+
+P.S. Got an update from my very first journal, my FTC team was willing to lend me their mecanum wheels! That saves me over 180 dollars :) One bad thing though, went to my FRC team to see if I could use the CNC router to cut the aluminum and it seems like the router isn't working right now... hoping to see if I can help fix it for them and save some more money.  
+
