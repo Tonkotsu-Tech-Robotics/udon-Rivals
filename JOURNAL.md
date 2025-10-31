@@ -38,8 +38,11 @@ Finally, I found a way to fit in this shooter. The packaging is quite tough and 
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--abf02d6e43da56aef3693dbd22c24e4a3c27ea6e/image.png)
 
+I had to commit to the angle as I wasn't going to go back on it. Looking at the arc, it looks okay for shooting but what isn't prototyped yet is the compression. I estimated a 5mm compression out of a 25mm shuttlecock head would be decent but I will never know without trying it. For future journals, I need to start taking more pictures when things go wrong. As said before, packaging was a huge issue, I couldn't figure out how to make the shafts and pullies not touch the side plates. I ended up opting just to have another shaft that goes across so I can split each side evenly with the gears and pullies. 
 
-  
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--f4c4b9be649a73f9b8e6f97f8e83adc9d33cee13/image.png)
+
+But now I'm looking back on it, this packaging also means repairability is kind of on the iffy side. Getting to a bolt in this intake is a little bit sus... looking to fix that.  
 
 ## 10/27/2025 7:45 PM - EDF Blower Add-on  
 
