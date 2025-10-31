@@ -11,8 +11,13 @@
 I've had multiple attempts at building a rival robot, many of which came into fruition but never had enough time to be tuned and refined. This includes Tonkotsu V1 and Tonkotsu V2 which had all the CAD and actual physical build but the swerve drive made it difficult to run well. With UDON, I plan to take a step back and build an easier mecanum drive. Here's what I'm thinking: 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjExNywicHVyIjoiYmxvYl9pZCJ9fQ==--07179d9b631ece5006780b0e4b62614333e63caf/image.png)
 
-Not great, I know but the mechanism can be changed. I want to base this off NCR rivals bot but as a shooter design instead of an arm that they had. Beginning to work on the mecanum drive here: 
+Not great, I know but the mechanism can be changed. The red is the mecanum drive base, green is the intaking wheels, dark blue is the centering wheels, and teal is the shooter. I wanted to base this off NCR rivals bot but as a shooter design instead of an arm that they had. One of the biggest issues here is just how consistent it can be. With the swerve drive I already have, the moteus controllers have very good rpm control but I'm not really sure how well the shooter could consistently hit that same spot. 
+
+Beginning to work on the mecanum drive here: 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjExOCwicHVyIjoiYmxvYl9pZCJ9fQ==--333a8e6521bf763aa8bb0b6544731f8e7ed27541/image.png)
+
+Big decision I had to make was what the cool the moteus controllers with. The controllers in the CAD use fans because official heatsinks are ABSURDLY expensive, around 30 dollars each. I've had some controllers burn up in the past and don't wish for that to happen again. Another thing is for some reason, Onshape mirroring causes really bad lag... not really a design problem but something that is really annoying. Reusing what I had, I used the 5010 motor from the swerve but went with a different pinion mounting this time. Last time on the swerve, I bolted in a metal custom cut gear onto the motor directly and it caused a lot of friction between the gears so this time I'm belting it and also having a 3D print and connection to a pinion on top and then holding the other side with a bearing. I think this will help a lot with making the motor movement better (I think that friction caused the burn out of the moteus controller in the swerve).
+
 
 
 I think this is a great start, I'm banking on the fact that I can also borrow the GoBilda mecanum wheels from my local FTC team :D  
