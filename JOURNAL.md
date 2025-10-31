@@ -27,10 +27,10 @@ I think this is a great start, I'm banking on the fact that I can also borrow th
 I've thought about many ways to do the intake, with a shuttlecock being such an oriented-based game piece, the head has to go forward at all times for this to work. I tried to figure out a passive way of intaking but none seems as reliable as having 2 centering wheels.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjExOSwicHVyIjoiYmxvYl9pZCJ9fQ==--cf87c79ef50e3c8775c28dd6b963cf075543bc94/image.png)
 
-I'm quite proud of the centering wheels using bevel gear tech, it just looks so good.
+I'm quite proud of the centering wheels using bevel gear tech, it just looks so good. One of the biggest issues here was trying to figure out how to power the centering wheels. I should have taken a photo of the interferences I was having before but at the time, I didn't plan on powering it using the same motor, I was thinking of just having a separate motor. However, the tight packaging between the mecanum drives didn't allow for another motor, especially because it was horizontal. There were many adjustments I had to make to the positioning of the shaft that holds the bevel gear.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--079cccaad19f9882b12bb02f4c56cf6973c5ac2e/image.png)
 
-  
+Right now, I'm not exactly sure how I plan to stop the shuttlecock from going all the way through. I didn't find a good way to package and might be leaning towards a usb sensor that connects to the Raspberry Pi because all of the pins are covered by the moteus pi3hat. However, I want to first prototype whether I can get away without that and just not spin the shooter motors and back the shuttcock into place for shooting :)  
 
 ## 10/27/2025 7:44 PM - Finished Shooter CAD  
 
