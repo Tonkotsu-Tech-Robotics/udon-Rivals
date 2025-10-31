@@ -50,7 +50,12 @@ Watching back some of the old games from Orange County Maker Fair and Tidal Tumb
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEyMywicHVyIjoiYmxvYl9pZCJ9fQ==--1bda45e980a381660a8168d645acd25d753d36d1/image.png)
 
-It looks really good but now I have to go back and redesign where I am going to put my electronics. I planned to put it where the EDF is (in the back of the robot) but with that space gone, I might have to add a plate so that I can just put the electronics on the top of the bot. This isn't really ideal because I liked the idea of a flat tanky robot but oh wells.  
+It looks really good but now I have to go back and redesign where I am going to put my electronics. I planned to put it where the EDF is (in the back of the robot) but with that space gone, I might have to add a plate so that I can just put the electronics on the top of the bot. This isn't really ideal because I liked the idea of a flat tanky robot but oh wells.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg3NywicHVyIjoiYmxvYl9pZCJ9fQ==--9021cfae1a750946293cbfa2d76c357be80b37ee/image.png)
+Credits: NCR 
+
+This is one of the things I need to do in the future. I loved how they packaged their raspberry pi and moteus pi3hat but I'm not sure if I want to do the way they did. On my Raspberry pi stack right now, I have a fan in between to cool the pi but that also means it will be a lot taller. Considering whether I should follow NCR or not...  
 
 ## 10/28/2025 - Blueprint!  
 
