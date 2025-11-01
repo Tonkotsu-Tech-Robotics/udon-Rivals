@@ -85,8 +85,8 @@ You can download the full CSV here: [bom.csv](bom.csv)
       <td>1.625" OD x 1/2" Wide Straight Flex Wheel (1/2" Hex Stretch, 45A)</td>
       <td align="right">WCP-1282</td>
       <td align="right">$2.99</td>
-      <td align="right">10</td>
-      <td align="right">$29.90</td>
+      <td align="right">9</td>
+      <td align="right">$26.91</td>
     </tr>
     <tr>
       <td>WCP</td>
@@ -106,11 +106,11 @@ You can download the full CSV here: [bom.csv](bom.csv)
     </tr>
     <tr>
       <td>WCP</td>
-      <td>Shipping Costs</td>
+      <td>Shipping + Tax</td>
       <td align="right"></td>
-      <td align="right">$20.00</td>
+      <td align="right">$25.41</td>
       <td align="right">1</td>
-      <td align="right">$20.00</td>
+      <td align="right">$25.41</td>
     </tr>
     <tr>
       <td>SWYFT</td>
@@ -157,8 +157,8 @@ You can download the full CSV here: [bom.csv](bom.csv)
       <td>4010 Fans 12V - 8500RPM</td>
       <td align="right"></td>
       <td align="right">$8.99</td>
-      <td align="right">2</td>
-      <td align="right">$17.98</td>
+      <td align="right">1</td>
+      <td align="right">$8.99</td>
     </tr>
     <tr>
       <td>Amazon</td>
@@ -169,12 +169,20 @@ You can download the full CSV here: [bom.csv](bom.csv)
       <td align="right">$44.99</td>
     </tr>
     <tr>
+      <td>Amazon</td>
+      <td>Tax</td>
+      <td align="right"></td>
+      <td align="right">$5.31</td>
+      <td align="right">1</td>
+      <td align="right">$5.31</td>
+    </tr>
+    <tr>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
-      <td align="right">30</td>
-      <td align="right">$398.38</td>
+      <td align="right">28</td>
+      <td align="right">$320.13</td>
     </tr>
   </tbody>
 </table>
