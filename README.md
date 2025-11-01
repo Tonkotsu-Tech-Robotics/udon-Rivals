@@ -87,6 +87,8 @@ You can download the full CSV here: [bom.csv](bom.csv)
       <td align="right">$2.99</td>
       <td align="right">9</td>
       <td align="right">$26.91</td>
+      <td align="right">9</td>
+      <td align="right">$26.91</td>
     </tr>
     <tr>
       <td>WCP</td>
@@ -107,9 +109,12 @@ You can download the full CSV here: [bom.csv](bom.csv)
     <tr>
       <td>WCP</td>
       <td>Shipping + Tax</td>
+      <td>Shipping + Tax</td>
       <td align="right"></td>
       <td align="right">$25.41</td>
+      <td align="right">$25.41</td>
       <td align="right">1</td>
+      <td align="right">$25.41</td>
       <td align="right">$25.41</td>
     </tr>
     <tr>
@@ -156,6 +161,8 @@ You can download the full CSV here: [bom.csv](bom.csv)
       <td>Amazon</td>
       <td>4010 Fans 12V - 8500RPM</td>
       <td align="right"></td>
+      <td align="right">$8.99</td>
+      <td align="right">1</td>
       <td align="right">$8.99</td>
       <td align="right">1</td>
       <td align="right">$8.99</td>

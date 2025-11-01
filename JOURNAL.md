@@ -6,12 +6,18 @@
   ==================================================================
 -->
 
-## 10/22/2025 - Restarting an Old Project
-I've had multiple attempts at building a rival robot, many of which came into fruition but never had enough time to be tuned and refined. This includes Tonkotsu V1 and Tonkotsu V2 which had all the CAD and actual physical build but the swerve drive made it difficult to run well. With UDON, I plan to take a step back and build an easier mecanum drive. Here's what I'm thinking:
-![UDON Front View](Pictures/UDONSketch.png) 
+## 10/27/2025 7:42 PM - Restarting an Old project  
 
-Not great, I know but the mechanism can be changed. I want to base this off NCR rivals bot but as a shooter design instead of an arm that they had. Beginning to work on the mecanum drive here: 
+I've had multiple attempts at building a rival robot, many of which came into fruition but never had enough time to be tuned and refined. This includes Tonkotsu V1 and Tonkotsu V2 which had all the CAD and actual physical build but the swerve drive made it difficult to run well. With UDON, I plan to take a step back and build an easier mecanum drive. Here's what I'm thinking: 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjExNywicHVyIjoiYmxvYl9pZCJ9fQ==--07179d9b631ece5006780b0e4b62614333e63caf/image.png)
+
+Not great, I know but the mechanism can be changed. The red is the mecanum drive base, green is the intaking wheels, dark blue is the centering wheels, and teal is the shooter. I wanted to base this off NCR rivals bot but as a shooter design instead of an arm that they had. One of the biggest issues here is just how consistent it can be. With the swerve drive I already have, the moteus controllers have very good rpm control but I'm not really sure how well the shooter could consistently hit that same spot. 
+
+Beginning to work on the mecanum drive here: 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjExOCwicHVyIjoiYmxvYl9pZCJ9fQ==--333a8e6521bf763aa8bb0b6544731f8e7ed27541/image.png)
+
+Big decision I had to make was what the cool the moteus controllers with. The controllers in the CAD use fans because official heatsinks are ABSURDLY expensive, around 30 dollars each. I've had some controllers burn up in the past and don't wish for that to happen again. Another thing is for some reason, Onshape mirroring causes really bad lag... not really a design problem but something that is really annoying. Reusing what I had, I used the 5010 motor from the swerve but went with a different pinion mounting this time. Last time on the swerve, I bolted in a metal custom cut gear onto the motor directly and it caused a lot of friction between the gears so this time I'm belting it and also having a 3D print and connection to a pinion on top and then holding the other side with a bearing. I think this will help a lot with making the motor movement better (I think that friction caused the burn out of the moteus controller in the swerve).
+
 
 
 I think this is a great start, I'm banking on the fact that I can also borrow the GoBilda mecanum wheels from my local FTC team :D  
@@ -21,28 +27,59 @@ I think this is a great start, I'm banking on the fact that I can also borrow th
 I've thought about many ways to do the intake, with a shuttlecock being such an oriented-based game piece, the head has to go forward at all times for this to work. I tried to figure out a passive way of intaking but none seems as reliable as having 2 centering wheels.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjExOSwicHVyIjoiYmxvYl9pZCJ9fQ==--cf87c79ef50e3c8775c28dd6b963cf075543bc94/image.png)
 
-## 10/23/2025 - Intake!
-I've thought about many ways to do the intake, with a shuttlecock being such an oriented-based game piece, the head has to go forward at all times for this to work. I tried to figure out a passive way of intaking but none seems as reliable as having 2 centering wheels. 
-![UDON Front View](Pictures/IntakeOnlyImage.png)
+I'm quite proud of the centering wheels using bevel gear tech, it just looks so good. One of the biggest issues here was trying to figure out how to power the centering wheels. I should have taken a photo of the interferences I was having before but at the time, I didn't plan on powering it using the same motor, I was thinking of just having a separate motor. However, the tight packaging between the mecanum drives didn't allow for another motor, especially because it was horizontal. There were many adjustments I had to make to the positioning of the shaft that holds the bevel gear.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--079cccaad19f9882b12bb02f4c56cf6973c5ac2e/image.png)
 
-I'm quite proud of the centering wheels using bevel gear tech, it just looks so good.
-![UDON Front View](Pictures/BevelGearShowing.png)
+Right now, I'm not exactly sure how I plan to stop the shuttlecock from going all the way through. I didn't find a good way to package and might be leaning towards a usb sensor that connects to the Raspberry Pi because all of the pins are covered by the moteus pi3hat. However, I want to first prototype whether I can get away without that and just not spin the shooter motors and back the shuttcock into place for shooting :)  
 
-Time Spent: 4 Hours
+## 10/27/2025 7:44 PM - Finished Shooter CAD  
 
-## 10/24/2025 - Shooter Done :P
 Finally, I found a way to fit in this shooter. The packaging is quite tough and I am slightly worried over the flywheels expanding when it is shooting. I think this is good enough. One other thing is that the green wheel is used for silo dumping but it might get in the way of the shuttlecock, I have to prototype to find out.
-![UDON Front View](Pictures/IntakeISOImage.png)
 
-Time Spent: 3.5 Hours
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--abf02d6e43da56aef3693dbd22c24e4a3c27ea6e/image.png)
 
-## 10/25/2025 - EDF Blower
+I had to commit to the angle as I wasn't going to go back on it. Looking at the arc, it looks okay for shooting but what isn't prototyped yet is the compression. I estimated a 5mm compression out of a 25mm shuttlecock head would be decent but I will never know without trying it. For future journals, I need to start taking more pictures when things go wrong. As said before, packaging was a huge issue, I couldn't figure out how to make the shafts and pullies not touch the side plates. I ended up opting just to have another shaft that goes across so I can split each side evenly with the gears and pullies. 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--f4c4b9be649a73f9b8e6f97f8e83adc9d33cee13/image.png)
+
+But now I'm looking back on it, this packaging also means repairability is kind of on the iffy side. Getting to a bolt in this intake is a little bit sus... looking to fix that.  
+
+## 10/27/2025 7:45 PM - EDF Blower Add-on  
+
 Watching back some of the old games from Orange County Maker Fair and Tidal Tumble, EDF seems like the way to go. The EDF blows the shuttlecocks to the other side and since the floor is a point, that is a LOT of points that can be gained that way. I added one to the robot too but I think it needs a cover because in one of the matches, I saw a shuttlecock go into it and it just exploded.
-![UDON Front View](Pictures/UdonBackImage.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEyMywicHVyIjoiYmxvYl9pZCJ9fQ==--1bda45e980a381660a8168d645acd25d753d36d1/image.png)
 
 It looks really good but now I have to go back and redesign where I am going to put my electronics. I planned to put it where the EDF is (in the back of the robot) but with that space gone, I might have to add a plate so that I can just put the electronics on the top of the bot. This isn't really ideal because I liked the idea of a flat tanky robot but oh wells.
 
-Time Spent: 2 Hours
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg3NywicHVyIjoiYmxvYl9pZCJ9fQ==--9021cfae1a750946293cbfa2d76c357be80b37ee/image.png)
+Credits: NCR 
 
-## 10/26/2025 - Why is everything so expensive D:
-So I'm looking into ways to cut costs and especially ways to manufacture those side plates. I 3D printed the intake and shooter plates and if I get rid of the pocketing, they seem well strong enough to hold up. The outside mecanum plates are non-negotiable and have to be aluminum 6061. I checked in with my FRC team that I work with and the router is open to use but they are missing clamp plates and haven't even used it once yet. As of now, I'm leading towards using Fabworks. Checking their pricing, its $150 even on the cheapest shipping option (ouch!). We'll see what I go with but that is seeming much more likely.
+This is one of the things I need to do in the future. I loved how they packaged their raspberry pi and moteus pi3hat but I'm not sure if I want to do the way they did. On my Raspberry pi stack right now, I have a fan in between to cool the pi but that also means it will be a lot taller. Considering whether I should follow NCR or not...  
+
+## 10/28/2025 - Blueprint!  
+
+Hey everyone! 
+
+I didn't do much today besides just figuring out this blueprint stuff. I got the BOM stuff done and now the project is shipped off! 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--0172585bdce6b15e843890b6bed70a1f3cf232e7/image.png)
+
+Thanks so much for the follows and the views, I hope to be able to show you my progress soon. I'm starting prototyping with 3D prints, especially the intake. One issue I might be seeing is just manufacturing fast enough. Rivals competition is on November 22 so time is of the essence. Thanks for checking this out!
+
+  
+
+## 10/30/2025 - Fixed My Journals  
+
+Hey everyone!
+
+Update: After shipping the project, I got feedback that I need to fix my journals and make them more in depth with my struggles and my successes. I went back and added a lot of the key parts that I remember. Sorry if I couldn't have much images of all the troubles I had (so many interferences in Onshape because packaging was really tight) but I hope my words are good enough for now. 100% for the future, I will document more and not just take pictures when the final product is done. 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--dd06bf51a1bed6853970b3b4d2a2cae5934919bf/image.png)
+I went ahead and printed some of parts in the intake and shooter. I know it says in the github to cut this out of 6061 aluminum but actually, I found that 3D printing should be strong enough for prototyping. There is some bends so I will go back and print this with no pocketing. Right now, its at an absurd 8 walls and 35% infill and seems to be holding up good!
+
+
+I hope you all enjoy! See you in the next journal :D
+
+
+P.S. Got an update from my very first journal, my FTC team was willing to lend me their mecanum wheels! That saves me over 180 dollars :) One bad thing though, went to my FRC team to see if I could use the CNC router to cut the aluminum and it seems like the router isn't working right now... hoping to see if I can help fix it for them and save some more money.  
+
