@@ -169,14 +169,6 @@ You can download the full CSV here: [bom.csv](bom.csv)
       <td align="right">$44.99</td>
     </tr>
     <tr>
-      <td>Amazon</td>
-      <td>EDF 70mm 11 Blades Ducted Fan</td>
-      <td align="right"></td>
-      <td align="right">$76.99</td>
-      <td align="right">1</td>
-      <td align="right">$76.99</td>
-    </tr>
-    <tr>
       <td></td>
       <td></td>
       <td></td>
