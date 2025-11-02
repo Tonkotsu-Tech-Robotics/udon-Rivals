@@ -83,3 +83,13 @@ I hope you all enjoy! See you in the next journal :D
 
 P.S. Got an update from my very first journal, my FTC team was willing to lend me their mecanum wheels! That saves me over 180 dollars :) One bad thing though, went to my FRC team to see if I could use the CNC router to cut the aluminum and it seems like the router isn't working right now... hoping to see if I can help fix it for them and save some more money.  
 
+## 11/2/2025 - Getting This Approved  
+
+Hey everyone!
+
+Sorry for the lack of posts in recent days, I've been talking and working with some Hack Club/Blueprint people that helped me get this approved/into what they want from the project. I truly appreciate all the help from Hack Club members, they are amazing. One of the biggest things that I need to change is just making my BOM cheaper. The way I did this was removing the EDF as it was the one thing in the project that wasn't a stepping stone to build the rest. This was quite sad as I really liked the EDF but unlike the mecanum plates, I need those plates to build the rest of the robot. The EDF can always be added on at the end. 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzgyMywicHVyIjoiYmxvYl9pZCJ9fQ==--730c1c507ff920d1354c2cda3715d82d2581745e/image.png)
+
+Here's what it'll look like without the EDF. This was a hard decision but I had to do something to drop the price and be reasonable. I am now down around 80 dollar from the original sitting around $313 instead of $397. I'm not sure whether or not these changes count for hours yet so I will be in contact with Hack Club, for now, I'll just put 0.1 hours.
+  
+
