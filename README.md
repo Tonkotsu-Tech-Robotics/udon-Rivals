@@ -164,17 +164,17 @@ You can download the full CSV here: [bom.csv](bom.csv)
       <td>Amazon</td>
       <td>CNHL 2200mAh 4S Lipo Battery 40C</td>
       <td align="right"></td>
-      <td align="right">$44.99</td>
+      <td align="right">$39.99</td>
       <td align="right">1</td>
-      <td align="right">$44.99</td>
+      <td align="right">$39.99</td>
     </tr>
     <tr>
       <td>Amazon</td>
       <td>Tax</td>
       <td align="right"></td>
-      <td align="right">$5.31</td>
+      <td align="right">$3.80</td>
       <td align="right">1</td>
-      <td align="right">$5.31</td>
+      <td align="right">$3.80</td>
     </tr>
     <tr>
       <td></td>
@@ -182,7 +182,7 @@ You can download the full CSV here: [bom.csv](bom.csv)
       <td></td>
       <td></td>
       <td align="right">28</td>
-      <td align="right">$320.13</td>
+      <td align="right">$313.62</td>
     </tr>
   </tbody>
 </table>
